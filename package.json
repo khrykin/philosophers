@@ -1,0 +1,19 @@
+{
+  "name": "philosophers",
+  "version": "1.0.0",
+  "description": "52 most known philosophers ready to populate anything you want them to",
+  "main": "philosophers.json",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "philosophers",
+    "factory",
+    "factories",
+    "populate",
+    "json",
+    "db"
+  ],
+  "author": "Dmitry Khrykin",
+  "license": "ISC"
+}
